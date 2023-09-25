@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "hbtb-patcher",
+  "version": "1.0.0",
+  "description": "Generate patch to change time window for Hellblade Timed Block",
+  "scripts": {
+    "build": "node build.js",
+    "tsc": "tsc",
+    "prebuild": "npm run tsc"
+  },
+  "keywords": [
+    "Skyrim SE",
+    "patch"
+  ],
+  "author": "Larissa Rosalene <lerarosalene@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.19.3",
+    "jsdom": "^22.1.0",
+    "jszip": "^3.10.1",
+    "typescript": "^5.2.2"
+  }
+}
