@@ -16,6 +16,6 @@ Hellblade Timed Block is an excellent mod, but there is no easy way to alter its
 
 ## Credits
 
-This mod generates patches for other mod that I am not an author of.
-Original Hellblade Timed Block was created by members of [skyrim-guild](https://www.skyrim-guild.com/).
+This mod generates patches for other mod that I am not an author of.  
+Original Hellblade Timed Block was created by members of [skyrim-guild](https://www.skyrim-guild.com/).  
 This mod DOES NOT contain any assets of the original mod.
