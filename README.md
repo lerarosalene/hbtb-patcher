@@ -5,7 +5,7 @@ Hellblade Timed Block is an excellent mod, but there is no easy way to alter its
 ## How to use
 
 1. Download [Hellblade Timed Block](https://www.skyrim-guild.com/mods/hellblade-timed-block)  from skyrim-guild
-1. Download this patcher
+1. Download [this patcher](https://www.nexusmods.com/skyrimspecialedition/mods/101311?tab=files)
 1. Open `index.html` file from the patcher with your browser
 1. Select Hellblade Timed Block .zip archive that you have downloaded on Step 1
 1. Enter desired perfect parry time window
